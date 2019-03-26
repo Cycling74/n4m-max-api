@@ -1,6 +1,6 @@
 {
 	"name": "max-api",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"description": "Placeholder / Stub Node package for users that accidentally install \"max-api\" when attempting to use the dynamic \"max-api\" within [node.script]",
 	"main": "index.js",
 	"scripts": {
@@ -19,8 +19,14 @@
 	],
 	"author": "Cycling '74",
 	"contributors": [
-		{ "name": "Ben Bracken", "email": "ben@cycling74.com" },
-		{ "name": "Florian Demmer", "email": "florian@cycling74.com" }
+		{
+			"name": "Ben Bracken",
+			"email": "ben@cycling74.com"
+		},
+		{
+			"name": "Florian Demmer",
+			"email": "florian@cycling74.com"
+		}
 	],
 	"license": "MIT",
 	"bugs": {
