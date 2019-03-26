@@ -26,5 +26,8 @@
 	"bugs": {
 		"url": "https://github.com/Cycling74/n4m-max-api/issues"
 	},
-	"homepage": "https://github.com/Cycling74/n4m-max-api#readme"
+	"homepage": "https://github.com/Cycling74/n4m-max-api#readme",
+	"files": [
+		"index.js"
+	]
 }
